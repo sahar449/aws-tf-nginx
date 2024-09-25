@@ -33,7 +33,6 @@
     - [ Installation](#-installation)
     - [ Usage](#-usage)
     - [ Tests](#-tests)
-- [ Project Roadmap](#-project-roadmap)
 - [ Contributing](#-contributing)
 - [ License](#-license)
 - [ Acknowledgments](#-acknowledgments)
@@ -141,13 +140,6 @@ Execute the test suite using the following command:
 
 ---
 
-##  Project Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
----
 
 ##  Contributing
 
